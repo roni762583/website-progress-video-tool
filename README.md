@@ -10,6 +10,16 @@ A tool designed to capture the progress of website development by generating aut
 - **Customizable Intervals**: Set the frequency at which screenshots are captured.
 - **Simple Setup**: Designed for easy integration into your website development workflow.
 
+# Website Progress Video Tool
+
+A tool designed to capture the progress of website development by generating automated screenshots and timelapse videos.
+
+## Timelapse of Progress
+
+Here is a timelapse of the website progress:
+
+![Website Progress Timelapse](screenshots/timelapse.gif)
+
 ## Installation
 
 ### Prerequisites
