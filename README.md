@@ -17,8 +17,7 @@ A tool designed to capture the progress of website development by generating aut
 ## Timelapse of Progress
 
 Here is a timelapse of the website progress:
-
-![Website Progress Timelapse](screenshots/timelapse.gif)
+![Website Progress Timelapse](https://raw.githubusercontent.com/roni762583/website-progress-video-tool/main/progress-screenshots.gif)
 
 ## Installation
 
