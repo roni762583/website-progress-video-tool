@@ -59,7 +59,7 @@ By default, the tool captures screenshots every 5 minutes. You can customize the
 The screenshots will be saved in the `screenshots/` directory, and a timelapse video will be generated in the same folder as `timelapse.mp4`.
 
 ### Git Integration
-After each screenshot capture, the tool will automatically commit and push the new files to your Git repository. Make sure to configure your Git username and email for proper commits.
+--scratch-- After each screenshot capture, the tool will automatically commit and push the new files to your Git repository. Make sure to configure your Git username and email for proper commits. --
 
 ```python
 import git
